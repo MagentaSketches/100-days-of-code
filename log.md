@@ -1,6 +1,4 @@
-# 100 Days Of Code - Log
-
-##The Plan is to do plenty of game tutorials for either web or mobile.
+# 100 Days Of InfoSec - Log
 
 
 ### Day 1: January 22, Tuesday
