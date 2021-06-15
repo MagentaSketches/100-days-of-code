@@ -34,3 +34,12 @@ Lesson 1.4 - finished up High Speed Chase project by adding input from user to a
 
 **Thoughts**
 Feel like I have learned a great deal and how to find information in the future and how Unity works.
+
+### Day 5: Tuesday, June 15, 2021
+
+**Today's Progress**:
+Challenge 1 - Plane Programming - finished the challenge and bonus challenge. Included fixing bugs, adding functionality and creating new script to make propeller spin.
+
+**Thoughts**
+
+I didn't Google once to complete any of it. I used documentation and did refer to first prototype for help.
