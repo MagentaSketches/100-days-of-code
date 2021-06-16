@@ -43,3 +43,11 @@ Challenge 1 - Plane Programming - finished the challenge and bonus challenge. In
 **Thoughts**
 
 I didn't Google once to complete any of it. I used documentation and did refer to first prototype for help.
+
+### Day 6: Wednesdaym June 16, 2021
+
+**Today's Progress**:
+Set up design document for personal project
+
+**Thoughts**
+Design doc is rough draft and may add to the backlog as I think of more features not part of the MVP
