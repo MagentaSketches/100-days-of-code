@@ -44,10 +44,19 @@ Challenge 1 - Plane Programming - finished the challenge and bonus challenge. In
 
 I didn't Google once to complete any of it. I used documentation and did refer to first prototype for help.
 
-### Day 6: Wednesdaym June 16, 2021
+### Day 6: Wednesday June 16, 2021
 
 **Today's Progress**:
 Set up design document for personal project
 
 **Thoughts**
 Design doc is rough draft and may add to the backlog as I think of more features not part of the MVP
+
+### Day 7: Thursday June 17, 2021
+
+**Today's Progress**:
+Worked through bonus features adding more crates and enemy vehicles. Tomorrow to work on hard mode - switching cameras and multiplayer
+
+**Thoughts**
+
+Need to research multiplayer and camera. I've added second camera and now to map a key to switch views
