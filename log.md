@@ -60,3 +60,12 @@ Worked through bonus features adding more crates and enemy vehicles. Tomorrow to
 **Thoughts**
 
 Need to research multiplayer and camera. I've added second camera and now to map a key to switch views
+
+### Day 8 : Friday June 18, 2021
+
+**Today's Progress**:
+got the second camera added where you can toggle between the two cameras. Had to Google and actually found the solution in the Unity documentation.
+
+**Thoughts**
+
+Will tackle the last challenge multiplayer in two days. Plan to work on personal project for the weekend
