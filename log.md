@@ -69,3 +69,12 @@ got the second camera added where you can toggle between the two cameras. Had to
 **Thoughts**
 
 Will tackle the last challenge multiplayer in two days. Plan to work on personal project for the weekend
+
+### Day 9 : Saturday, June 19, 2021
+
+**Today's Progress**:
+started personal project. Got POC scene built. now to find an object to represent paper or create one and start coding. Also cleaned up the hard task of the multiplayer challenge. Just need to record demo and share.
+
+**Thoughts**
+
+Feeling more confident with Unity and actually enjoying it. 
