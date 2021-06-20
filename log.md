@@ -66,6 +66,8 @@ Need to research multiplayer and camera. I've added second camera and now to map
 **Today's Progress**:
 got the second camera added where you can toggle between the two cameras. Had to Google and actually found the solution in the Unity documentation.
 
+
+
 **Thoughts**
 
 Will tackle the last challenge multiplayer in two days. Plan to work on personal project for the weekend
@@ -78,3 +80,12 @@ started personal project. Got POC scene built. now to find an object to represen
 **Thoughts**
 
 Feeling more confident with Unity and actually enjoying it. 
+
+### Day 10: Sunday, June 20, 2021
+
+**Today's Progress**:
+got the camera to follow player. the asset I got already had a script to move the character and it had one to follow target but opted to write my own for practice and to have something that I would understand.
+
+**Thoughts**
+
+Happy with progress so far. Interesting working with other assets and scripts. 
