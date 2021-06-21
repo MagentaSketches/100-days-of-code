@@ -89,3 +89,11 @@ got the camera to follow player. the asset I got already had a script to move th
 **Thoughts**
 
 Happy with progress so far. Interesting working with other assets and scripts. 
+
+### Day 11: Monday, June 21, 2021
+
+**Today's Progress**:
+Started second unit and finished Gameplay that basically set up next game with objects, make the player move and set boundaries so they don't leave the playing area.
+
+**Thoughts**
+Retaining some of what I learned from previous unit and this one is building on that knowledge and reinforcing it.
