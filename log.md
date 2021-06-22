@@ -97,3 +97,12 @@ Started second unit and finished Gameplay that basically set up next game with o
 
 **Thoughts**
 Retaining some of what I learned from previous unit and this one is building on that knowledge and reinforcing it.
+
+### Day 12: Tuesday, June 22, 2021
+
+**Today's Progress**:
+Completed throught unit 2.3. learned about random method and how to use it to create random objects in random locations.
+
+**Thoughts**
+
+did two sections today. Getting better at working longer.
