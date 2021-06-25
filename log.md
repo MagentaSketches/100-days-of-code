@@ -106,3 +106,21 @@ Completed throught unit 2.3. learned about random method and how to use it to cr
 **Thoughts**
 
 did two sections today. Getting better at working longer.
+
+### Day 13: Wednesday, June 23, 2021
+
+**Today's Progress**:
+
+completed unit 2.4
+
+**Thoughts**
+
+### Day 14: Thursday, June 24, 2021
+
+**Today's Progress**:
+
+worked on Wordsmith by adding random writing blocks as obstacles but probably need to make them fall on the player.
+
+**Thoughts**
+
+I will work on Wordsmith next by the weekend and tomorrow do the challenge from the lesson.
