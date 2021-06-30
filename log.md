@@ -124,3 +124,23 @@ worked on Wordsmith by adding random writing blocks as obstacles but probably ne
 **Thoughts**
 
 I will work on Wordsmith next by the weekend and tomorrow do the challenge from the lesson.
+
+### Day 15: Friday, June 25, 2021
+
+**Today's Progress**:
+
+Wordsmith work. 
+
+**Thoughts**
+
+Dragging a little bit with both updates and Unity work. No real update from the weekend but worked on the game a little bit.
+
+### Day 20: Wednesday, June 30, 2021
+
+**Today's Progress**:
+
+Worked on the challenges for prototype 2 using the help guide as I had about half of it firgured out but needed help.
+
+**Thoughts**
+
+Tomorrow will move on from this even if not complete. Adding the health bar which is UI and doesn't seem to be spawning with the animals so will troubleshoot that and then move on.
